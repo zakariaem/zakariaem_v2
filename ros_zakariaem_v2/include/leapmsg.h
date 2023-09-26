@@ -2,8 +2,8 @@
 // DO NOT EDIT!
 
 
-#ifndef ROS_zakariaem_MESSAGE_LEAPMSG_H
-#define ROS_zakariaem_MESSAGE_LEAPMSG_H
+#ifndef ROS_ZAKARIAEM_MESSAGE_LEAPMSG_H
+#define ROS_ZAKARIAEM_MESSAGE_LEAPMSG_H
 
 
 #include <string>
