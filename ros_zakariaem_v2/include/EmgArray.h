@@ -2,8 +2,8 @@
 // DO NOT EDIT!
 
 
-#ifndef ROS_zakariaem_MESSAGE_EMGARRAY_H
-#define ROS_zakariaem_EMGARRAY_H
+#ifndef ROS_ZAKARIAEM_MESSAGE_EMGARRAY_H
+#define ROS_ZAKARIAEM_EMGARRAY_H
 
 
 #include <string>
